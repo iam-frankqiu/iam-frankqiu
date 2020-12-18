@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 
 <!--
 **iam-frankqiu/iam-frankqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=iam-frankqiu&show_icons=true&icon_color=0366d6&bg_color=ffffff&%22%20alt=%22github%20stats%20for%20egoist%22%3E"/>
+
+### Let's talk
+You can follow me on [Twitter](https://twitter.com/FrankQi73998203)
